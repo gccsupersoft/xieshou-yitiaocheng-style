@@ -1,5 +1,5 @@
 interface:
-  display_name: "写手一条城风格"
+  display_name: "县城瑜伽裤 Skill"
   short_description: "县城观察式标题、脚本和口播改写"
   default_prompt: "Use $xieshou-yitiaocheng-style to rewrite this short-video idea in a county-town social-observation style."
 
