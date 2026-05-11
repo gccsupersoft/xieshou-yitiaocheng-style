@@ -1,4 +1,4 @@
-# 写手一条城风格 Skill
+# 县城瑜伽裤 Skill
 
 > 把抽象社会议题，拆成普通人的生活成本、身份焦虑、评价体系和关系筹码。
 
@@ -11,7 +11,7 @@
 用户：
 
 ```text
-使用 $xieshou-yitiaocheng-style，帮我把这个选题改成写手一条城风格：
+使用 $xieshou-yitiaocheng-style，帮我把这个选题改成县城瑜伽裤 Skill 风格：
 
 选题：为什么年轻人越来越讨厌公司团建？
 目标：3-5 分钟 B 站口播视频
@@ -69,7 +69,7 @@ npx skills add ./xieshou-yitiaocheng-style
 或者直接说：
 
 ```text
-帮我按写手一条城风格写 10 个标题。
+帮我按县城瑜伽裤 Skill 风格写 10 个标题。
 ```
 
 ## 适合做什么
